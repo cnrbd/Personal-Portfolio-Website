@@ -64,3 +64,26 @@ nav ul li a{
     flex-wrap: wrap;
 }
 
+.about-me-left {
+    flex-basis: 35%;
+}
+
+.about-me-left img{
+    border-radius: 15px;
+}
+
+.about-me-right{
+    flex-basis: 60%;
+}
+
+.subtitle{
+    font-size: 40px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+#red{
+    color: red;
+    background-color: blue;
+
+}
